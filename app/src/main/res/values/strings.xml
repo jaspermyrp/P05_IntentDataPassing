@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent Data Passing Test</string>
+
+
+    <string name="button1">Pass Integer Value to 2nd Activity</string>
+
+    <string name="button2">Pass Character Value to 3rd Activity</string>
+
+    <string name="button3">Pass Double Value to 4th Activity</string>
+</resources>
